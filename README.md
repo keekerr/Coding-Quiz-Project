@@ -27,7 +27,7 @@ The purpose of this project was to create an Interactive Coding Quiz that fit th
 
 [Deployed Application](https://keekerr.github.io/Coding-Quiz-Project/)
 
-![Image Example of Deployed Application](https://github.com/keekerr/Coding-Quiz-Project/blob/main/assets/Coding%20Quiz%20Example.PNG?raw=true)
+![Image Example of Deployed Application]()
 
 ## Languages Used
 

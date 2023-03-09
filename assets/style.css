@@ -1,54 +1,54 @@
+
 * {
-  background-color: whitesmoke;
-}
-
-.nav-bar {
-  padding: 30px;
-  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
-    "Lucida Sans", Arial, sans-serif;
-  color: #6307a1;
-  display: flex;
-  justify-content: space-between;
-}
-
-.nav-bar button {
-  padding: 0;
-  border: none;
-  background: none;
-  color: #6307a1;
-  font-size: larger;
-}
-
-.nav-bar button:hover {
-  color: green;
-  font-weight: bolder;
-}
-
-.quiz-header h1 {
-  display: flex;
-  justify-content: center;
-  color: #6307a1;
-  font-weight: bolder;
-}
-
-.quiz-header p {
-  display: flex;
-  justify-content: center;
-  font-size: larger;
-  font-weight: bold;
-}
-
-.quiz-header button {
-  border: 15px;
-  color: #6307a1;
-  font-size: larger;
-  display: flex;
-  justify-content: center;
-}
-
-.quiz-header button:hover {
-  color: green;
-  font-weight: bolder;
-}
-
-/* fix star quiz button position */
+    background-color: whitesmoke;
+  }
+  
+  .nav-bar {
+    padding: 30px;
+    font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+      "Lucida Sans", Arial, sans-serif;
+    color: #6307a1;
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .nav-bar button {
+    padding: 0;
+    border: none;
+    background: none;
+    color: #6307a1;
+    font-size: larger;
+  }
+  
+  .nav-bar button:hover {
+    color: green;
+    font-weight: bolder;
+  }
+  
+  .quiz-header h1 {
+    display: flex;
+    justify-content: center;
+    color: #6307a1;
+    font-weight: bolder;
+  }
+  
+  .quiz-header p {
+    display: flex;
+    justify-content: center;
+    font-size: larger;
+    font-weight: bold;
+  }
+  
+  .quiz-header button {
+    border: 15px;
+    color: #6307a1;
+    font-size: larger;
+    display: flex;
+    justify-content: center;
+  }
+  
+  .quiz-header button:hover {
+    color: green;
+    font-weight: bolder;
+  }
+  
